@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6d7ae464c0f8ad24dadacbd93bc9ea9d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Winter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0652e5d70ba5c5146b45daed61fb546b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
